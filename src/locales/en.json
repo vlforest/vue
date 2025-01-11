@@ -1,0 +1,99 @@
+{
+  "title": {
+    "home": "Home - RIKEN Vietnam",
+    "contact": "Contact - RIKEN Vietnam",
+    "about": "About Us - RIKEN Vietnam",
+    "categories": "Product Categories - RIKEN Vietnam",
+    "products": "Products - RIKEN Vietnam",
+    "orders": "Orders - RIKEN Vietnam"
+  },
+  "sidebar": {
+    "title": "Categories"
+  },
+  "companyName": "RIKEN VIETNAM CO., LTD",
+  "companyNameChinese": "RIKEN VIETNAM CO., LTD",
+  "companyDescription": "Production and processing: sandpaper, woodworking metal equipment, raw materials for furniture, ironware, leather, board factories.",
+  "menu": {
+    "home": "Home",
+    "categories": "Categories",
+    "category1": "Category 1",
+    "category2": "Category 2",
+    "category3": "Category 3",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "footer": {
+    "headOffice": "HEAD OFFICE",
+    "headOfficeName": "RIKEN VIETNAM CO., LTD",
+    "headOfficeAddress": "Address: A part of Lot CN 17, N2 street and No.4 street, Song Than 3 Industrial Park, Phu Tan Ward, Thu Dau Mot City, Binh Duong Province.",
+    
+    "northBranch": "NORTH BRANCH",
+    "northBranchName": "RIKEN NORTHERN VIETNAM CO., LTD",
+    "northBranchAddress": "Address: Plot No. 545, Map No. 15, Que Vo Industrial Park Expansion, Phuong Lieu Commune, Que Vo District, Bac Ninh Province, Vietnam.",
+    
+    "centralBranch": "CENTRAL BRANCH",
+    "centralBranchName": "RIKEN CENTRAL VIETNAM CO., LTD",
+    "centralBranchAddress": "Address: QHDC Area, Area 5, Bui Thi Xuan Ward, Quy Nhon City, Binh Dinh Province.",
+    
+    "equipmentSupply": "EQUIPMENT SUPPLY",
+    "equipmentSupplyName": "RIKEN BINH DUONG ONE MEMBER COMPANY LIMITED",
+    "equipmentSupplyAddress": "Address: A part of Lot CN 17, N2 street and No.4 street, Song Than 3 Industrial Park, Phu Tan Ward, Thu Dau Mot City, Binh Duong Province.",
+    
+    "contactTitle": "PHONE",
+    "sandpaper": "Sandpaper: Mr. Dam 0909 053 277 / Mr. Mu 0906 350 199 (Chinese/Vietnamese) Mr. Hao 0909 350 277 (Chinese)",
+    "machinery": "Machinery: Mr. Ding 0903 771 089 (Chinese, English) Mr. Thanh 0908 077 129 (Chinese/Vietnamese)",
+    
+    "developedBy": "Developed by Lâm Vũ Linh"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "headOfficeTitle": "HEAD OFFICE",
+    "headOfficeName": "RIKEN VIETNAM CO., LTD",
+    "headOfficeAddress": "Address: A part of Lot CN 17, N2 street and No.4 street, Song Than 3 Industrial Park, Phu Tan Ward, Thu Dau Mot City, Binh Duong Province.",
+    
+    "northBranchTitle": "NORTH BRANCH",
+    "northBranchName": "RIKEN NORTHERN VIETNAM CO., LTD",
+    "northBranchAddress": "Address: Plot No. 545, Map No. 15, Que Vo Industrial Park Expansion, Phuong Lieu Commune, Que Vo District, Bac Ninh Province, Vietnam.",
+    
+    "centralBranchTitle": "CENTRAL BRANCH",
+    "centralBranchName": "RIKEN CENTRAL VIETNAM CO., LTD",
+    "centralBranchAddress": "Address: QHDC Area, Area 5, Bui Thi Xuan Ward, Quy Nhon City, Binh Dinh Province.",
+    
+    "equipmentSupplyTitle": "EQUIPMENT SUPPLY",
+    "equipmentSupplyName": "RIKEN BINH DUONG ONE MEMBER COMPANY LIMITED",
+    "equipmentSupplyAddress": "Address: A part of Lot CN 17, N2 street and No.4 street, Song Than 3 Industrial Park, Phu Tan Ward, Thu Dau Mot City, Binh Duong Province.",
+    
+    "phoneTitle": "PHONE",
+    "sandpaper": "Sandpaper",
+    "sandpaperContact1": "Mr. Dam 0909 053 277 / Mr. Mu 0906 350 199 (Chinese/Vietnamese)",
+    "sandpaperContact2": "Mr. Hao 0909 350 277 (Chinese)",
+    
+    "machinery": "Machinery, accessories",
+    "machineryContact1": "Mr. Ding 0903 771 089 (Chinese, English)",
+    "machineryContact2": "Mr. Thanh 0908 077 129 (Chinese/Vietnamese)"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Learn more about our company, our team, and our values.",
+    "companyTitle": "Our Company",
+    "description": "RIKEN Vietnam is a leading company in the production and processing of sandpaper, woodworking metal equipment, and raw materials for furniture and leather factories. Our mission is to provide high-quality products and services to our customers, ensuring their satisfaction and success.",
+    "teamTitle": "Meet Our Team",
+    "valuesTitle": "Our Values",
+    "values": {
+      "innovation": "Innovation",
+      "integrity": "Integrity",
+      "customerFocus": "Customer Focus",
+      "quality": "Quality",
+      "sustainability": "Sustainability"
+    }
+  },
+  "categories": {
+    "title": "Product Categories",
+    "learnMore": "Learn More"
+  },
+  "hero": {
+    "title": "Welcome to RIKEN Vietnam",
+    "subtitle": "Your trusted partner for industrial solutions.",
+    "cta": "Contact Us"
+  }
+}

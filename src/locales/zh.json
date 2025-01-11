@@ -1,0 +1,99 @@
+{
+  "title": {
+    "home": "首页 - 越南理研",
+    "contact": "联系 - 越南理研",
+    "about": "关于我们 - 越南理研",
+    "categories": "产品分类 - 越南理研",
+    "products": "产品 - 越南理研",
+    "orders": "订单 - 越南理研"
+  },
+  "sidebar": {
+    "title": "分类"
+  },
+  "companyName": "越南理研责任有限公司",
+  "companyNameChinese": "越南理研责任有限公司",
+  "companyDescription": "生产和加工：砂布砂纸，木工金属设备，家具、铁器、皮革、板材厂用原辅料及气动工具。",
+  "menu": {
+    "home": "首页",
+    "categories": "分类",
+    "category1": "分类 1",
+    "category2": "分类 2",
+    "category3": "分类 3",
+    "about": "关于我们",
+    "contact": "联系"
+  },
+  "footer": {
+    "headOffice": "总公司",
+    "headOfficeName": "越南理研责任有限公司",
+    "headOfficeAddress": "地址: 平阳省土油一市福新坊三浪神工业区N2街和4号街17地号",
+    
+    "northBranch": "北宁分公司",
+    "northBranchName": "越南理研北部分公司",
+    "northBranchAddress": "地址: 越南北宁省贵武县方料社贵武扩展工业区15号地图的545地",
+    
+    "centralBranch": "归仁分公司",
+    "centralBranchName": "越南理研中部分公司",
+    "centralBranchAddress": "地址: 平定省归仁市白氏春坊5区QHDC区",
+    
+    "equipmentSupply": "设备供应",
+    "equipmentSupplyName": "平阳理研工业有限责任公司",
+    "equipmentSupplyAddress": "地址: 平阳省土油一市福新坊三浪神工业区N2街和4号街17地号",
+    
+    "contactTitle": "电话",
+    "sandpaper": "砂纸: Mr. Đam 0909 053 277 / Mr. Mủ 0906 350 199 (中文/越南语) Mr. Hao 0909 350 277 (中文)",
+    "machinery": "机器, 配件: Mr. Ding 0903 771 089 (中文, 英文) Mr. Thành 0908 077 129 (中文/越南语)",
+    
+    "developedBy": "由林武灵开发"
+  },
+  "contact": {
+    "title": "联络",
+    "headOfficeTitle": "总公司",
+    "headOfficeName": "越南理研责任有限公司",
+    "headOfficeAddress": "地址: 平阳省土油一市福新坊三浪神工业区N2街和4号街17地号",
+    
+    "northBranchTitle": "北宁分公司",
+    "northBranchName": "越南理研北部分公司",
+    "northBranchAddress": "地址: 越南北宁省贵武县方料社贵武扩展工业区15号地图的545地",
+    
+    "centralBranchTitle": "归仁分公司",
+    "centralBranchName": "越南理研中部分公司",
+    "centralBranchAddress": "地址: 平定省归仁市白氏春坊5区QHDC区",
+    
+    "equipmentSupplyTitle": "设备供应",
+    "equipmentSupplyName": "平阳理研工业有限责任公司",
+    "equipmentSupplyAddress": "地址: 平阳省土油一市福新坊三浪神工业区N2街和4号街17地号",
+    
+    "phoneTitle": "电话",
+    "sandpaper": "砂纸",
+    "sandpaperContact1": "Mr. Đam 0909 053 277 / Mr. Mủ 0906 350 199 (中文/越南语)",
+    "sandpaperContact2": "Mr. Hao 0909 350 277 (中文)",
+    
+    "machinery": "机器, 配件",
+    "machineryContact1": "Mr. Ding 0903 771 089 (中文, 英文)",
+    "machineryContact2": "Mr. Thành 0908 077 129 (中文/越南语)"
+  },
+  "about": {
+    "title": "关于我们",
+    "subtitle": "了解更多关于我们公司、团队和价值观的信息。",
+    "companyTitle": "公司介绍",
+    "description": "越南理研是一家领先的公司，生产和加工砂纸、木工金属设备、家具和皮革厂用原材料。我们的使命是为客户提供高质量的产品和服务，确保他们的满意和成功。",
+    "teamTitle": "认识我们的团队",
+    "valuesTitle": "我们的价值观",
+    "values": {
+      "innovation": "创新",
+      "integrity": "诚信",
+      "customerFocus": "以客户为中心",
+      "quality": "质量",
+      "sustainability": "可持续性"
+    }
+  },
+  "categories": {
+    "title": "产品分类",
+    "learnMore": "了解更多"
+  },
+  "hero": {
+    "title": "欢迎来到越南理研",
+    "subtitle": "您可信赖的工业解决方案合作伙伴。",
+    "cta": "联系我们"
+  }
+}

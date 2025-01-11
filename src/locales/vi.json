@@ -1,0 +1,99 @@
+{
+  "title": {
+    "home": "Trang Chủ - RIKEN Việt Nam",
+    "contact": "Liên Hệ - RIKEN Việt Nam",
+    "about": "Giới Thiệu - RIKEN Việt Nam",
+    "categories": "Danh Mục Sản Phẩm - RIKEN Việt Nam",
+    "products": "Sản Phẩm - RIKEN Việt Nam",
+    "orders": "Đơn Hàng - RIKEN Việt Nam"
+  },
+  "sidebar": {
+    "title": "Danh mục"
+  },
+  "companyName": "CÔNG TY TNHH RIKEN VIỆT NAM",
+  "companyNameChinese": "CÔNG TY TNHH RIKEN VIỆT NAM",
+  "companyDescription": "Sản xuất và gia công: giấy nhám, thiết bị kim loại ngành mộc, nguyên vật liệu cho nhà máy nội thất, nhà máy sắt thép, nhà máy da, nhà máy ván ép.",
+  "menu": {
+    "home": "Trang chủ",
+    "categories": "Danh Mục",
+    "category1": "Danh Mục 1",
+    "category2": "Danh Mục 2",
+    "category3": "Danh Mục 3",
+    "about": "Giới Thiệu",
+    "contact": "Liên Hệ"
+  },
+  "footer": {
+    "headOffice": "TỔNG CÔNG TY",
+    "headOfficeName": "CÔNG TY TNHH RIKEN VIỆT NAM",
+    "headOfficeAddress": "Địa chỉ: Một phần lô CN 17, đường N2 và đường số 4, KCN Sóng Thần 3, P. Phú Tân, TP Thủ Dầu Một, Bình Dương.",
+    
+    "northBranch": "CHI NHÁNH BẮC NINH",
+    "northBranchName": "CÔNG TY TNHH RIKEN MIỀN BẮC",
+    "northBranchAddress": "Địa chỉ: Thửa đất số 545, tờ bản đồ 15, KCN Quế Võ mở rộng, xã Phương Liễu, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam.",
+    
+    "centralBranch": "CHI NHÁNH QUY NHƠN",
+    "centralBranchName": "CÔNG TY TNHH RIKEN MIỀN TRUNG",
+    "centralBranchAddress": "Địa chỉ: Khu QHDC Khu vực 5, P. Bùi Thị Xuân, TP Quy Nhơn, Bình Định.",
+    
+    "equipmentSupply": "CUNG CẤP THIẾT BỊ MÁY MÓC",
+    "equipmentSupplyName": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHIỆP RIKEN BÌNH DƯƠNG",
+    "equipmentSupplyAddress": "Địa chỉ: Một phần lô CN 17, đường N2 và đường số 4, KCN Sóng Thần 3, P. Phú Tân, TP Thủ Dầu Một, Bình Dương.",
+    
+    "contactTitle": "ĐIỆN THOẠI",
+    "sandpaper": "Giấy nhám: Mr. Đam 0909 053 277 / Mr. Mủ 0906 350 199 (Tiếng Trung/Tiếng Việt) Mr. Hao 0909 350 277 (Tiếng Trung)",
+    "machinery": "Máy móc, phụ kiện: Mr. Ding 0903 771 089 (Tiếng Trung, Tiếng Anh) Mr. Thành 0908 077 129 (Tiếng Trung/Tiếng Việt)",
+    
+    "developedBy": "Phát triển bởi Lâm Vũ Linh"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "headOfficeTitle": "TỔNG CÔNG TY",
+    "headOfficeName": "CÔNG TY TNHH RIKEN VIỆT NAM",
+    "headOfficeAddress": "Địa chỉ: Một phần lô CN 17, đường N2 và đường số 4, KCN Sóng Thần 3, P. Phú Tân, TP Thủ Dầu Một, Bình Dương.",
+    
+    "northBranchTitle": "CHI NHÁNH BẮC NINH",
+    "northBranchName": "CÔNG TY TNHH RIKEN MIỀN BẮC",
+    "northBranchAddress": "Địa chỉ: Thửa đất số 545, tờ bản đồ 15, KCN Quế Võ mở rộng, xã Phương Liễu, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam.",
+    
+    "centralBranchTitle": "CHI NHÁNH QUY NHƠN",
+    "centralBranchName": "CÔNG TY TNHH RIKEN MIỀN TRUNG",
+    "centralBranchAddress": "Địa chỉ: Khu QHDC Khu vực 5, P. Bùi Thị Xuân, TP Quy Nhơn, Bình Định.",
+    
+    "equipmentSupplyTitle": "CUNG CẤP THIẾT BỊ MÁY MÓC",
+    "equipmentSupplyName": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHIỆP RIKEN BÌNH DƯƠNG",
+    "equipmentSupplyAddress": "Địa chỉ: Một phần lô CN 17, đường N2 và đường số 4, KCN Sóng Thần 3, P. Phú Tân, TP Thủ Dầu Một, Bình Dương.",
+    
+    "phoneTitle": "ĐIỆN THOẠI",
+    "sandpaper": "Giấy nhám",
+    "sandpaperContact1": "Mr. Đam 0909 053 277 / Mr. Mủ 0906 350 199 (Tiếng Trung/Tiếng Việt)",
+    "sandpaperContact2": "Mr. Hao 0909 350 277 (Tiếng Trung)",
+    
+    "machinery": "Máy móc, phụ kiện",
+    "machineryContact1": "Mr. Ding 0903 771 089 (Tiếng Trung, Tiếng Anh)",
+    "machineryContact2": "Mr. Thành 0908 077 129 (Tiếng Trung/Tiếng Việt)"
+  },
+  "about": {
+    "title": "Về Chúng Tôi",
+    "subtitle": "Tìm hiểu thêm về công ty, đội ngũ và giá trị của chúng tôi.",
+    "companyTitle": "Công Ty Chúng Tôi",
+    "description": "RIKEN Việt Nam là một công ty hàng đầu trong lĩnh vực sản xuất và gia công giấy nhám, thiết bị kim loại ngành mộc, và nguyên vật liệu cho nhà máy nội thất và nhà máy da. Sứ mệnh của chúng tôi là cung cấp các sản phẩm và dịch vụ chất lượng cao cho khách hàng, đảm bảo sự hài lòng và thành công của họ.",
+    "teamTitle": "Gặp Gỡ Đội Ngũ Của Chúng Tôi",
+    "valuesTitle": "Giá Trị Của Chúng Tôi",
+    "values": {
+      "innovation": "Đổi mới",
+      "integrity": "Chính trực",
+      "customerFocus": "Tập trung vào khách hàng",
+      "quality": "Chất lượng",
+      "sustainability": "Bền vững"
+    }
+  },
+  "categories": {
+    "title": "Các danh mục sản phẩm",
+    "learnMore": "Tìm hiểu thêm"
+  },
+  "hero": {
+    "title": "Chào mừng đến với RIKEN Việt Nam",
+    "subtitle": "Đối tác tin cậy của bạn về các giải pháp công nghiệp.",
+    "cta": "Liên Hệ Chúng Tôi"
+  }
+}
